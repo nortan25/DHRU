@@ -3,7 +3,7 @@
 session_start();
 
 
-require_once "db\conexao.php";
+require_once "db/conexao.php";
 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
