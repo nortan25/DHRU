@@ -10,11 +10,11 @@ if(isset($_SESSION['usuario_id'])) {
     session_destroy();
 
     
-    header("Location: main.php");
+    header("Location: alfasever/main.php");
     exit();
 } else {
    
-    header("Location: main.php");
+    header("Location: alfasever/main.php");
     exit();
 }
 ?>
