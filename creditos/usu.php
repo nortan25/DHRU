@@ -20,7 +20,7 @@
 
     <?php
    
-    require_once "db\conexao.php";
+    require_once "db/conexao.php";
 
     
     if (isset($_POST['pesquisar'])) {
