@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $senha = $_POST['senha'];
 
     
-    require_once "db\conexao.php";
+    require_once "db/conexao.php";
 
     
     $sql = "SELECT id, email, senha FROM usuarios WHERE email = ? AND is_admin = 1";
