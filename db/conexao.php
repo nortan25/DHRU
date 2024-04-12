@@ -1,9 +1,9 @@
 <?php
 
-$hostname = "sql303.infinityfree.com";
-$username = "epiz_33388613";
-$password = "TnMqTB8mB9q7ff";
-$database = "epiz_33388613_alfa"; 
+$hostname = "xxxxxx";
+$username = "xxxxxx";
+$password = "xxxxxx";
+$database = "xxxxxx"; 
 
 $conn = new mysqli($hostname, $username, $password, $database);
 
