@@ -7,8 +7,8 @@
 </head>
 
 <?php
-require_once "cssbar.php";
-require_once "bar.php";
+require_once "alfasever/cssbar.php";
+require_once "alfasever/bar.php";
 ?>
 
 <body>
