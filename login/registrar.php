@@ -6,7 +6,7 @@
     <title>Registro de Usuário</title>
 </head>
 <?php
-require_once "cssbar.php";
+require_once "alfasever/cssbar.php";
 ?>
 <body>
 
