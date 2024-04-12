@@ -1,5 +1,5 @@
 <?php
-require_once "db\conexao.php";
+require_once "db/conexao.php";
 
 
 $sql = "SELECT * FROM personalizacao";
