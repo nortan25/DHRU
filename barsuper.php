@@ -5,7 +5,7 @@ session_start();
 
 if(isset($_SESSION['usuario_id'])) {
    
-    require_once "db\conexao.php";
+    require_once "db/conexao.php";
 
     
     $sql = "SELECT is_admin FROM usuarios WHERE id = ? AND is_admin = 1";
