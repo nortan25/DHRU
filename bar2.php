@@ -10,7 +10,7 @@ if(!isset($_SESSION['usuario_id'])) {
 }
 
 
-require_once "db\conexao.php";
+require_once "db/conexao.php";
 require_once "cssbar.php";
 
 
