@@ -1,7 +1,7 @@
 
 <?php
-    require_once "barsuper.php";
-    require_once "cssbar.php";
+    require_once "alfasever/barsuper.php";
+    require_once "alfasever/cssbar.php";
 ?>
 
 <!DOCTYPE html>
